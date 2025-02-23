@@ -32,37 +32,6 @@ I'm a passionate Full Stack Developer focused on crafting clean, efficient, and 
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joedev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
 </div>
 
-## 🎯 Current Endeavors
-
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  currentFocus: string[];
-  skills: {
-    languages: string[];
-    frameworks: string[];
-    architecture: string[];
-  };
-}
-
-const joedev: Developer = {
-  name: "Joedev",
-  role: "Full Stack Developer",
-  currentFocus: [
-    "Building scalable web applications",
-    "Exploring microservices architecture",
-    "Contributing to open-source",
-    "Mastering cloud technologies"
-  ],
-  skills: {
-    languages: ["TypeScript", "JavaScript", "Python"],
-    frameworks: ["React", "Next.js", "Node.js", "Express"],
-    architecture: ["REST", "MVC", "Microservices"]
-  }
-};
-```
-
 ## 🌱 Professional Journey
 
 - 💻 Crafting responsive and intuitive web applications
