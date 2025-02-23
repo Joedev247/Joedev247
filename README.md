@@ -1,71 +1,92 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Joe+%F0%9F%91%8B;Full+Stack+Developer" alt="Typing SVG" />
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:3498DB&height=200&section=header&text=Joedev&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&animation=fadeIn)
 
-<p align="center">
-  Passionate about crafting elegant solutions through code. I specialize in full-stack development,
-  turning complex problems into simple, beautiful, and intuitive designs.
-</p>
+# 👋 Welcome to my digital workspace
 
-## 💻 Tech Stack
+I'm a passionate Full Stack Developer focused on crafting clean, efficient, and user-centric solutions. Through code, I transform complex challenges into elegant applications that make a difference.
 
-<div align="center">
+## 🛠️ Technology Arsenal
 
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css)](https://skillicons.dev)
+### Frontend Development
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python,express,mongodb,mysql)](https://skillicons.dev)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,github)](https://skillicons.dev)
+### Development Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 📈 Performance Metrics
+
+<div style="display: flex; gap: 10px;">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Joedev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joedev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
 </div>
 
-## 📊 GitHub Stats
+## 🎯 Current Endeavors
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joedev247&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joedev247&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  currentFocus: string[];
+  skills: {
+    languages: string[];
+    frameworks: string[];
+    architecture: string[];
+  };
+}
 
-## 🎯 Current Focus
-
-- Building responsive web applications with React and Next.js
-- Exploring advanced TypeScript patterns
-- Developing RESTful APIs with Node.js
-- Contributing to open-source projects
-
-## 🌱 Always Learning
-
-```javascript
-const joe = {
-  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-  tools: ["React", "Next.js", "Node.js", "Express"],
-  architecture: ["microservices", "event-driven", "MVC"],
-  databases: ["MongoDB", "MySQL"],
-  currentlyLearning: "Advanced React Patterns"
+const joedev: Developer = {
+  name: "Joedev",
+  role: "Full Stack Developer",
+  currentFocus: [
+    "Building scalable web applications",
+    "Exploring microservices architecture",
+    "Contributing to open-source",
+    "Mastering cloud technologies"
+  ],
+  skills: {
+    languages: ["TypeScript", "JavaScript", "Python"],
+    frameworks: ["React", "Next.js", "Node.js", "Express"],
+    architecture: ["REST", "MVC", "Microservices"]
+  }
 };
 ```
 
-## 📫 Connect With Me
+## 🌱 Professional Journey
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+- 💻 Crafting responsive and intuitive web applications
+- 🚀 Implementing scalable backend solutions
+- 🎨 Creating engaging user interfaces
+- 🔍 Optimizing application performance
+- 🤝 Collaborating on innovative projects
 
-<div align="center">
-  <h3>Fun Facts</h3>
-  <p>☕ Coffee enthusiast | 🎮 Gaming in free time | 📚 Continuous learner</p>
-</div>
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-url)
+
+## 🎮 Beyond Coding
+
+- ☕ Fueled by coffee and curiosity
+- 📚 Perpetual learner
+- 🎮 Gaming enthusiast
+- 🌟 Open source contributor
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Joedev247&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Joedev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3498DB,100:2C3E50&height=100&section=footer)
