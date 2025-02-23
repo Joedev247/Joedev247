@@ -1,51 +1,71 @@
-# Hi there, I'm Joedev 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Joe+%F0%9F%91%8B;Full+Stack+Developer" alt="Typing SVG" />
+</div>
 
-## 🚀 Full Stack Developer
+<p align="center">
+  Passionate about crafting elegant solutions through code. I specialize in full-stack development,
+  turning complex problems into simple, beautiful, and intuitive designs.
+</p>
 
-### 👨‍💻 About Me
-I am a passionate Full Stack Developer focused on creating innovative web solutions. With a keen eye for detail and a love for clean code, I transform ideas into functional and user-friendly applications. My journey in tech is driven by continuous learning and the excitement of building impactful digital experiences.
+## 💻 Tech Stack
 
-### 🛠️ Tech Stack
+<div align="center">
 
-#### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css)](https://skillicons.dev)
 
-#### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+### Backend & Database
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,express,mongodb,mysql)](https://skillicons.dev)
 
-#### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,github)](https://skillicons.dev)
 
-#### Development Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+</div>
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joedev247&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joedev247&theme=radical)
+## 📊 GitHub Stats
 
-### 🎯 Current Focus
-- 🔥 Building responsive web applications
-- 📱 Mobile-first development
-- 🌐 Modern web technologies
-- 🤝 Collaborating on open-source projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joedev247&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joedev247&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
 
-### 📫 Connect With Me
-- Portfolio: [Coming Soon]()
-- LinkedIn: [Joe](https://www.linkedin.com/in/your-profile)
+## 🎯 Current Focus
 
-### 🎈 Fun Facts
-- 💡 I love turning coffee into code
-- 🌱 Always exploring new technologies
-- 🎮 Gaming enthusiast
-- 📚 Continuous learner
+- Building responsive web applications with React and Next.js
+- Exploring advanced TypeScript patterns
+- Developing RESTful APIs with Node.js
+- Contributing to open-source projects
+
+## 🌱 Always Learning
+
+```javascript
+const joe = {
+  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+  tools: ["React", "Next.js", "Node.js", "Express"],
+  architecture: ["microservices", "event-driven", "MVC"],
+  databases: ["MongoDB", "MySQL"],
+  currentlyLearning: "Advanced React Patterns"
+};
+```
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>Fun Facts</h3>
+  <p>☕ Coffee enthusiast | 🎮 Gaming in free time | 📚 Continuous learner</p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Joedev247&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
