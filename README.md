@@ -36,6 +36,17 @@ I'm a passionate Full Stack Developer focused on crafting clean, efficient, and 
 </p>
 </div>
 
+## Github Stats
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joedev247&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joedev247&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joedev247&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+
 ## 🌱 Professional Journey
 
 - 💻 Crafting responsive and intuitive web applications
