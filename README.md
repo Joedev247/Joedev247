@@ -6,25 +6,37 @@ I'm a passionate Full Stack Developer focused on crafting clean, efficient, and 
 
 ## 🛠️ Technology Arsenal
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div style="padding: 20px 0;">
+
+### Frontend Expertise
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS3" />
+</p>
 
 ### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL" />
+</p>
 
-### Development Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VS Code" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker" />
+</p>
 
+</div>
 ## 📈 Performance Metrics
 
 <div style="display: flex; gap: 10px;">
