@@ -10,42 +10,30 @@ I'm a passionate Full Stack Developer focused on crafting clean, efficient, and 
 
 ### Frontend Expertise
 <p>
-  <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
 </p>
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VS Code" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />&nbsp;&nbsp;
 </p>
-
-</div>
-
-## Github Stats
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joedev247&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joedev247&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joedev247&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 ## 🌱 Professional Journey
